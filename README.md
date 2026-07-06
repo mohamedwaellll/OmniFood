@@ -1,5 +1,7 @@
 # Omnifood
 
+![Omnifood preview](img/preview.png)
+
 Landing page for Omnifood — a made-up AI meal subscription brand. Built this as a front-end practice project to get comfortable with responsive layouts.
 
 **Live demo:** https://mohamedwaellll.github.io/OmniFood/
